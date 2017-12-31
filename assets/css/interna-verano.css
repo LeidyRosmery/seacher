@@ -1,0 +1,65 @@
+/*@font face*/
+@font-face {
+    font-family: misoregular;
+    src: url(/static/fonts/miso/miso-webfont.woff);
+}
+/*end font face*/
+/*Generals*/
+
+.no-scroll {
+  overflow: hidden;
+}
+.strong {
+  font-weight: 700;
+}
+.block {
+  display: block !important;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.posr {
+  position: relative;
+}
+.m-auto {
+  margin: auto;
+}
+.no-margin {
+  margin: 0;
+}
+.no-padding {
+  padding: 0;
+}
+.color-red {
+  color: #dd0021;
+}
+.font-miso {
+  font-family: misoregular;
+}
+
+#main.newMainSection > .container:nth-child(1),
+#main.newMainSection > .container > .col-md-12:nth-child(1) {
+  padding: 0;
+}
+.font-hands {
+  font-family: hands;
+}
+
+.padding-left-25{
+  padding-left: 2.5rem;
+}
+.padding-right-5{
+  padding-right: 0.5rem;
+}
+.padding-left-5{
+  padding-left: 0.5rem;
+}
+.margin-20{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+h1{
+  color: red;
+  background-color: blue;
+}

@@ -1,0 +1,806 @@
+<head>
+
+  <link rel="alternate" hreflang="x-default" href="#">
+  <meta http-equiv="Content-Language" content="es" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!--<link rel="stylesheet" type="text/css" href="/static/categorias/contenidoEstatico/guiasdecomprasope/2017/qa/resources/css/magnific-popup5.css">-->
+
+  <link rel="stylesheet" type="text/css" href="/static/categorias/contenidoEstatico/landings/assets/css/interna-verano.css?v=CywsRSkTzf3UMS12">
+  <link rel="stylesheet" type="text/css" href="/static/categorias/contenidoEstatico/guiasdecomprasope/2017/qa/resources/css/magnific-popup5.css">
+  <link rel="stylesheet" type="text/css" href="/static/categorias/contenidoEstatico/landings/assets/css/menu.css?v=CywsRSkTzf3UMS12">
+  <style type="text/css">
+    /*generales*/
+
+    .no-margin {
+      margin: 0px;
+    }
+
+    .no-padding {
+      padding: 0px;
+    }
+
+    .newMainSection {
+      margin-top: 0 !important;
+    }
+
+    .breadrumbWrap {
+      display: none;
+    }
+
+    /*fin generales*/
+
+    /*header*/
+
+    .interna-header-desktop {
+      background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/banner_internas_desktop/banner_juegos_desktop.jpg);
+    }
+
+    .interna-header-mobil {
+      background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/banner_internas_mobile/banner_juegos_mobile.jpg);
+    }
+
+    .interna-header-detalles {
+      height: 400px;
+      background-repeat: no-repeat;
+      width: 100%;
+      background-size: cover;
+      background-position: center center;
+    }
+
+    .interna-header-img {
+      height: 285px;
+      position: relative;
+      left: 36%;
+      top: 29px;
+    }
+
+    .interna-video-svg-check {
+      width: 7%;
+      display: inline-block;
+      margin-right: 9px;
+    }
+
+    /*fin header*/
+
+    /*bg grey*/
+
+    .interna-bg-grey {
+      background-color: rgb(235, 237, 238);
+    }
+
+    .interna-grey-texto {
+      font-style: italic;
+      color: grey;
+      font-size: 18px;
+    }
+
+    .interna-bg-grey-box {
+      text-align: center;
+      padding: 2% 1%;
+      line-height: 244%;
+    }
+
+    .interna-grey-nuestras-opciones {
+      color: rgb(0, 114, 206);
+      font-family: misoregular;
+      font-weight: 600;
+      font-size: 28px;
+    }
+
+    .interna-flecha-abajo {
+      color: rgb(0, 114, 206);
+      font-size: 21px;
+    }
+
+    .interna-piscina-estructurales {
+      background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/desktop/juegos/1.jpg);
+    }
+
+    .interna-piscina-inflables {
+      background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/desktop/juegos/2.jpg);
+    }
+
+    .interna-flotadores {
+      background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/desktop/juegos/3.jpg);
+    }
+
+    .interna-accesorios-de-piscinas {
+      background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/desktop/juegos/4.jpg);
+    }
+
+    .interna-mantenimiento-de-piscina {
+      background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/desktop/juegos/7.jpg);
+    }
+
+    .interna-piscina-estructurales__ {
+      background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/desktop/juegos/6.jpg);
+    }
+
+    .interna-piscina-inflables__ {
+      background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/desktop/juegos/5.jpg);
+    }
+
+    .interna-bg-grey-img-detalles {
+      height: 360px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+    }
+
+    .interna-bg-grey-aside-img-detalles {
+      height: 730px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+    }
+
+    .interna-bg-grey-btn-azul {
+      background-color: rgb(0, 114, 206);
+      color: white;
+      top: 82%;
+      position: relative;
+      height: auto;
+      box-sizing: border-box;
+      padding: 15px;
+    }
+
+    .interna-bg-grey-btn-azul-after {
+      left: 4%;
+    }
+
+    .interna-bg-grey-btn-azul-texto {
+      display: inline-block;
+      font-family: misoregular;
+      font-size: 25px;
+    }
+
+    .interna-bg-grey-btn-azul-top {
+      top: 91%;
+    }
+
+    .interna-padding-bott {
+      padding-bottom: 5px;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-top: 0px;
+    }
+
+    .interna-padding-top {
+      padding-top: 5px;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+    }
+
+    .interna-btn-azul-piscina-estructural {
+      width: 62%;
+      left: 4%;
+    }
+
+    .interna-btn-azul-flotadores {
+      width: 44%;
+      left: 4%;
+    }
+
+    .interna-btn-azul-accesorios-piscina {
+      width: 45%;
+      left: 4%;
+    }
+
+    .interna-btn-azul-piscina-inflables {
+      width: 40%;
+      right: -57%;
+    }
+
+    .interna-btn-azul-piscina-mantenimiento {
+      width: 90%;
+      left: 4%;
+    }
+
+    /*fin bg grey*/
+
+    /*bg white*/
+
+    .interna-bg-white-box {
+      color: grey;
+      font-family: misoregular;
+      font-size: 28px;
+      text-align: center;
+      padding: 2% 1%;
+      line-height: 1.2;
+    }
+
+    .interna-span-tu-piscina {
+      font-family: hands;
+      color: rgb(0, 114, 206);
+    }
+
+    .azul {
+      color: rgb(0, 114, 206);
+    }
+
+    /*fin bg white*/
+
+    /*video*/
+
+    .interna-video {
+      background-color: rgb(0, 114, 206);
+      color: white;
+      padding: 2%;
+    }
+
+    .interna-video-svg {
+      width: 10%;
+      display: inline-block;
+    }
+
+    .interna-video-texto {
+      display: inline-block;
+      width: 89%;
+    }
+
+    .interna-video-box-txt {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding: 3% 0;
+    }
+
+    .interna-video-border-left {
+      border-left: 2px dotted white;
+      min-height: 346px;
+    }
+
+    .interna-video-titulo-txt {
+      padding: 3% 0;
+      margin-left: 10%
+    }
+
+    .interna-float-right {
+      float: right;
+    }
+
+    .interna-padding-5px {
+      padding: 5px !important;
+    }
+
+    .interna-padding-0px {
+      padding: 0px !important;
+    }
+
+    .interna-video-texto-style {
+      font-family: misoregular;
+      font-size: 21px;
+      line-height: 1;
+    }
+
+    /*end video*/
+
+    /*menu fixed*/
+
+    ​ .no-padding {
+      padding: 0px;
+    }
+
+    .nav ul {
+      width: 100% !important;
+    }
+
+    #menu-navbar-collapse {
+      padding: 0px;
+    }
+
+    .menu-navbar-fixed {
+      left: 0px !important;
+    }
+
+    .menu-mobile {
+      position: absolute;
+      /*position: relative !important;*/
+      width: 100% !important;
+      padding-top: 0px !important;
+      padding-left: 0px !important;
+    }
+
+    /*fin menu*/
+
+    .spec-juegos {
+      float: left;
+      width: 45%;
+      left: 24px;
+    }
+
+    .parrafo-tips {
+      padding: 25px 10px;
+      font-size: 14px;
+    }
+
+
+    /*queries*/
+
+    @media screen and (max-width: 992px) {
+      .interna-bg-grey-aside-img-detalles {
+        height: 360px;
+      }
+      .interna-header-detalles {
+        background-position: center top;
+      }
+      .interna-bg-grey {
+        background-color: white;
+      }
+      .interna-video-border-left {
+        border: none;
+      }
+      .interna-bg-grey-btn-azul-top {
+        top: 74%;
+        width: 85%;
+        left: 8%;
+      }
+      .interna-padding-bott {
+        padding-bottom: 0px;
+      }
+      .interna-padding-top {
+        padding-top: 0px;
+      }
+      .interna-video-texto-style {
+        font-size: 27px;
+        font-weight: 500;
+      }
+      .interna-bg-grey-btn-azul-texto {
+        width: 10%;
+      }
+      .interna-btn-azul-piscina-estructural {
+        top: 78%;
+        width: 85%;
+        left: 8%;
+      }
+      .interna-btn-azul-piscina-inflables {
+        top: 78%;
+        width: 85%;
+        left: 8%;
+      }
+      .interna-btn-azul-accesorios-piscina {
+        top: 74%;
+        left: 8%;
+        width: 85%;
+      }
+      .interna-btn-azul-flotadores {
+        top: 82%;
+        width: 42%;
+        left: 4%;
+      }
+      .interna-plus-pis-est {
+        top: -1rem;
+      }
+      .interna-chevron-pis-est {
+        top: 9px;
+      }
+      .interna-plus-pis-inf {
+        top: -5px;
+      }
+      .interna-chevron-pis-infl {
+        top: 11px;
+      }
+      .interna-plus-pis-acc {
+        top: -2px;
+        font-size: 12px;
+      }
+      .interna-chevron-pis-acc {
+        top: 15px;
+        font-size: 18px;
+      }
+      .interna-plus-pis-man {
+        top: -2px;
+        font-size: 12px;
+      }
+      .interna-chevron-pis-man {
+        top: 15px;
+        font-size: 18px;
+      }
+      .interna-plus-pis-flo {
+        top: -1px;
+      }
+      .interna-chevron-pis-flo {
+        top: 2px;
+      }
+
+
+      /*imagenes de los mundos mobile*/
+      .interna-piscina-estructurales {
+        background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/mobile/juegos/bicicletas.jpg);
+      }
+      .interna-piscina-inflables {
+        background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/mobile/juegos/casitas_y_juegos.jpg);
+      }
+      .interna-flotadores {
+        background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/mobile/juegos/camas_saltarinas.jpg);
+      }
+      .interna-accesorios-de-piscinas {
+        background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/mobile/juegos/resbaladeras_y_columpios.jpg);
+      }
+      .interna-mantenimiento-de-piscina {
+        background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/mobile/juegos/carritos.jpg);
+      }
+
+      .interna-piscina-estructurales__ {
+        background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/mobile/juegos/baldes_y_juegos_de_playa.jpg);
+      }
+      .interna-piscina-inflables__ {
+        background-image: url(/static/categorias/contenidoEstatico/landings/assets/img/internas/mobile/juegos/juegos_inflables.jpg);
+      }
+
+
+
+    }
+
+    @media screen and (max-width: 768px) {
+      .interna-bg-grey-box {
+        line-height: 205%;
+      }
+
+      .interna-bg-grey-btn-azul-texto {
+        font-size: 15px;
+      }
+      .interna-font-size {
+        font-size: 10px;
+      }
+      .interna-video {
+        padding: 3%;
+      }
+      .interna-video-box-txt {
+        padding: 4% .5%;
+      }
+      .interna-video-titulo-txt {
+        margin-left: 14%;
+        text-align: center;
+        margin: 5px;
+      }
+      .interna-bg-grey-btn-azul.interna-btn-azul-piscina-inflables.line-3{
+            top: 71%;
+      }
+
+      .interna-bg-grey-btn-azul-texto {
+        width: 65%;
+        font-size: 21px;
+        line-height: 0.9;
+      }
+      .interna-bg-grey-btn-azul {
+        padding: 15px;
+        min-height: 67px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        top: 76%;
+      }
+
+      .interna-btn-azul-piscina-inflables {
+        top: 76%;
+      }
+
+      .icon-plus {
+        top: -2px;
+      }
+
+      .icon-plus-menaje {
+        top: -12px;
+      }
+
+      .interna-header-img {
+        height: 194px;
+        margin: 0 auto;
+        transform: translate(0, 35%);
+
+      }
+      .arrow-spec {
+        top: 15px;
+      }
+      .arrow-men {
+        top: 2px;
+      }
+
+      .interna-btn-azul-flotadores {
+        width: 70%;
+        left: 4%;
+      }
+
+      .interna-chevron-pis-man,
+      .interna-chevron-pis-est,
+      .interna-chevron-pis-infl,
+      .arrow-top-5 {
+        top: 5px;
+      }
+
+
+      .interna-header-detalles {
+        height: 281px;
+      }
+
+    }
+
+    @media screen and (max-width: 768px) and (min-width: 580px) {
+      .interna-header-img {
+        height: 200px;
+        top: 26px;
+      }
+      .interna-video-svg-check {
+        width: 9%;
+      }
+    }
+
+    @media screen and (max-width: 580px) {
+      /*.interna-header-img {
+            height: 194px;
+            left: 30%;
+            top: 3px;
+        }*/
+      .interna-video-svg-check {
+        width: 9%;
+      }
+      .interna-header-img {
+        height: 194px;
+        transform: translate(-21%, 24%);
+      }
+
+    }
+
+    /*fin queries*/
+  </style>
+</head>
+<div class="row no-margin">
+  <div class="col-xs-12 no-padding menu-spec" id="menu"></div>
+</div>
+<div class="row no-margin hidden-sm hidden-xs">
+  <div class="interna-header-desktop interna-header-detalles">
+    <img src="/static/categorias/contenidoEstatico/landings/assets/img/logos_categorias/juegos.svg" class="interna-header-img">
+  </div>
+</div>
+<div class="row no-margin hidden-md hidden-lg">
+  <div class="interna-header-mobil interna-header-detalles">
+    <img src="/static/categorias/contenidoEstatico/landings/assets/img/logos_categorias/juegos.svg" class="interna-header-img">
+  </div>
+</div>
+<div class="row no-margin interna-bg-grey">
+  <div class="col-xs-12">
+    <div class="interna-bg-grey-box">
+      <p class="interna-grey-texto">¡Diversión en el jardín! Encuentra los mejores juegos para los pequeños del hogar</p>
+      <p class="interna-grey-nuestras-opciones">CONOCE NUESTRAS OPCIONES</p>
+      <span class="glyphicon glyphicon-menu-down interna-flecha-abajo"></span>
+    </div>
+    <div class="search">
+      <input type="text" placeholder="ingresa tu busqueda">
+      <i class="glyphicon glyphicon-search"></i>
+      <div class="">
+        <ul>
+          <li> esta es mi primera busqueda</li>
+          <li> esta es mi segunda busqueda</li>
+          <li> esta es mi primera busqueda</li>
+          <li> esta es mi segunda busqueda</li>
+          <li> esta es mi primera busqueda</li>
+          <li> esta es mi segunda busqueda</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-xs-12">
+    <div class="col-xs-6 col-md-5 interna-padding-5px">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat1269021/Bicicletas" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_Bicicletas')">
+        <div class="interna-piscina-estructurales interna-bg-grey-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-btn-azul-piscina-estructural">
+            <span class="glyphicon glyphicon-plus "></span>
+            <p class="interna-bg-grey-btn-azul-texto">Bicicletas</p>
+            <span class="glyphicon glyphicon-menu-right interna-float-right"></span>
+          </div>
+        </div>
+      </a>
+
+    </div>
+    <div class="col-xs-6 col-md-7 interna-padding-5px">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat10634/Juegos-infantiles-y-casitas" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_CasitasYJuegos')">
+        <div class="interna-piscina-inflables interna-bg-grey-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-btn-azul-piscina-inflables">
+            <span class="glyphicon glyphicon-plus"></span>
+            <p class="interna-bg-grey-btn-azul-texto">Casitas y juegos</p>
+            <span class="glyphicon glyphicon-menu-right interna-float-right"></span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-xs-12 hidden-sm hidden-xs">
+    <div class="col-xs-6 col-md-7 interna-padding-5px">
+      <div class="col-xs-12 interna-padding-bott">
+        <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat10632/Camas-Saltarinas" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_CamasSaltarinas')">
+          <div class="interna-flotadores interna-bg-grey-img-detalles">
+            <div class="interna-bg-grey-btn-azul interna-btn-azul-flotadores">
+              <span class="glyphicon glyphicon-plus"></span>
+              <p class="interna-bg-grey-btn-azul-texto">Camas saltarinas</p>
+              <span class=" glyphicon glyphicon-menu-right interna-float-right"></span>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="interna-padding-top col-xs-12 ">
+        <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat10640/Resbaladeras-y-Columpios" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_ResbaladeraYColumpios')">
+          <div class="interna-accesorios-de-piscinas interna-bg-grey-img-detalles">
+            <div class="interna-bg-grey-btn-azul interna-btn-azul-accesorios-piscina ">
+              <span class=" glyphicon glyphicon-plus"></span>
+              <p class="interna-bg-grey-btn-azul-texto">Resbaladera y columpios</p>
+              <span class="glyphicon glyphicon-menu-right interna-float-right"></span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="col-xs-6 col-md-5 interna-padding-5px">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat2639004/Carros,-scooters-y-skates" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_Carritos')">
+        <div class="interna-mantenimiento-de-piscina interna-bg-grey-aside-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-bg-grey-btn-azul-top interna-btn-azul-piscina-mantenimiento">
+            <span class=" glyphicon glyphicon-plus"></span>
+            <p class="interna-bg-grey-btn-azul-texto">Carritos</p>
+            <span class="glyphicon glyphicon-menu-right interna-float-right"></span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+
+
+
+  <div class="col-xs-12 hidden-sm hidden-xs" style="padding-bottom: 12px;">
+    <div class="col-xs-6 col-md-7 interna-padding-5px ">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3129022/Especial-Playa" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_BaldesYJuegosDePlaya')">
+        <div class="interna-piscina-inflables__ interna-bg-grey-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-btn-azul-piscina-inflables spec-juegos">
+            <span class="glyphicon glyphicon-plus"></span>
+            <p class="interna-bg-grey-btn-azul-texto">Baldes y juegos de playa</p>
+            <span class="glyphicon glyphicon-menu-right interna-float-right"></span>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-xs-6 col-md-5 interna-padding-5px">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat10648/Juegos-Inflables" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_JuegosInflables')">
+        <div class="interna-piscina-estructurales__ interna-bg-grey-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-btn-azul-piscina-estructural">
+            <span class="glyphicon glyphicon-plus "></span>
+            <p class="interna-bg-grey-btn-azul-texto">Juegos inflables</p>
+            <span class="glyphicon glyphicon-menu-right interna-float-right "></span>
+          </div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+
+  <!-- solo mobile -->
+
+  <div class="col-xs-12 hidden-md hidden-lg">
+    <div class="col-xs-6 col-md-5 interna-padding-5px">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat10632/Camas-Saltarinas" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_CamasSaltarinas')">
+        <div class="interna-flotadores interna-bg-grey-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-btn-azul-piscina-estructural">
+            <span class="glyphicon glyphicon-plus "></span>
+            <p class="interna-bg-grey-btn-azul-texto">Camas saltarinas</p>
+            <span class="glyphicon glyphicon-menu-right interna-float-right "></span>
+          </div>
+        </div>
+      </a>
+
+    </div>
+    <div class="col-xs-6 col-md-7 interna-padding-5px">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat10640/Resbaladeras-y-Columpios" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_ResbaladeraYColumpios')">
+        <div class="interna-accesorios-de-piscinas interna-bg-grey-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-btn-azul-piscina-inflables line-3">
+            <span class=" glyphicon glyphicon-plus "></span>
+            <p class="interna-bg-grey-btn-azul-texto">Resbaladera y columpios</p>
+            <span class="glyphicon glyphicon-menu-right interna-float-right"></span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-xs-12 hidden-md hidden-lg">
+    <div class="col-xs-6 col-md-5 interna-padding-5px">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat10648/Juegos-Inflables" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_JuegosInflables')">
+        <div class="interna-piscina-estructurales__ interna-bg-grey-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-btn-azul-piscina-estructural">
+            <span class=" glyphicon glyphicon-plus "></span>
+            <p class="interna-bg-grey-btn-azul-texto">Juegos inflables</p>
+            <span class=" glyphicon glyphicon-menu-right interna-float-right "></span>
+          </div>
+        </div>
+      </a>
+
+    </div>
+    <div class="col-xs-6 col-md-7 interna-padding-5px">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat2639004/Carros,-scooters-y-skates" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_Carritos')">
+        <div class="interna-mantenimiento-de-piscina interna-bg-grey-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-btn-azul-piscina-inflables ">
+            <span class=" glyphicon glyphicon-plus"></span>
+            <p class="interna-bg-grey-btn-azul-texto">Carritos</p>
+            <span class=" glyphicon glyphicon-menu-right interna-float-right"></span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-xs-12">
+    <div class="col-xs-12 interna-padding-5px visible-xs visible-sm">
+      <a href="http://www.sodimac.com.pe/sodimac-pe/category/cat3129022/Especial-Playa" target="_self" title="Click" onclick="ga('send', 'event', '2017_12_Landing_Home_Verano_2018', 'Click', 'Boton_BaldesYJuegosDePlaya')">
+        <div class="interna-piscina-inflables__ interna-bg-grey-img-detalles">
+          <div class="interna-bg-grey-btn-azul interna-bg-grey-btn-azul-after interna-btn-azul-flotadores">
+            <span class="glyphicon glyphicon-plus"></span>
+            <p class="interna-bg-grey-btn-azul-texto">Baldes y juegos de playa</p>
+            <span class=" glyphicon glyphicon-menu-right interna-float-right"></span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+
+</div>
+<div class="row no-margin interna-bg-white">
+  <div class="col-xs-12">
+    <div class="interna-bg-white-box">
+      <p> Vive un verano inolvidable <span class="interna-span-tu-piscina"> en familia </span></p>
+      <p>con estos consejos.</p>
+      <span class="glyphicon glyphicon-menu-down azul"></span>
+    </div>
+  </div>
+</div>
+<div class="row no-margin interna-video">
+  <div class="col-xs-12 col-md-6">
+    <div class="interna-video-box-txt hidden-sm hidden-xs">
+      <img src="/static/categorias/contenidoEstatico/landings/assets/img/iconos/juego_al_aire_libre.svg" class="interna-video-svg-check">
+
+      <p class="interna-video-texto interna-video-texto-style"> ¿Por qué es importante</br>jugar al aire libre?</p>
+
+    </div>
+    <div>
+      <a target="_blank" class="popup-youtube" href="https://www.youtube.com/watch?v=e1hhgzavmgI">
+            <img width="100%" src="/static/categorias/contenidoEstatico/landings/assets/img/videos/desktop/juegos_al_aire_libre.jpg" class="">
+        </a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-6 interna-video-border-left parrafo-tips">
+    <!-- <div style="padding-bottom: 3%;padding-top: 3%;">
+        <p class="interna-video-titulo-txt interna-video-texto-style">Tips para ir de excursión este verano</p>
+      </div> -->
+    <div class="interna-video-box-txt">
+      <img src="/static/categorias/contenidoEstatico/landings/assets/img/chek.svg" class="interna-video-svg-check">
+      <p class="interna-video-texto">Promueven la actividad física. Los juegos al aire libre requieren movimiento constante, esto favorece el desarrollo psicomotriz de las personas y evitan el sedentarismo.</p>
+    </div>
+    <div class="interna-video-box-txt">
+      <img src="/static/categorias/contenidoEstatico/landings/assets/img/chek.svg" class="interna-video-svg-check">
+      <p class="interna-video-texto">Potencian habilidades cognitivas. Estos juegos brindan la oportunidad de explorar y descubrir el mundo exterior, lo cual favorece la estimulación de la creatividad, la memoria, la percepción y el aprendizaje.</p>
+    </div>
+    <div class="interna-video-box-txt">
+      <img src="/static/categorias/contenidoEstatico/landings/assets/img/chek.svg" class="interna-video-svg-check">
+      <p class="interna-video-texto">Desarrollan la sociabilidad. Estos juegos favorecen a la comunicación entre sus integrantes y crean un ambiente ideal para el desarrollo de habilidades sociales.</p>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="/static/categorias/contenidoEstatico/guiasdecomprasope/2017/qa/resources/js/jquery.magnific-popup5.js"></script>
+<script type="text/javascript" src="/static/categorias/contenidoEstatico/landings/assets/js/interna-verano.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    // PLUGIN MAGNIFICPOPUP
+    $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+      disableOn: 700,
+      type: 'iframe',
+      mainClass: 'mfp-fade',
+      removalDelay: 160,
+      preloader: false,
+      fixedContentPos: false
+    });
+    //END MAGNIFICPOPUP
+  });
+</script>
+<script src="/static/categorias/contenidoEstatico/landings/assets/js/menu.js?v=CywsRSkTzf3UMS9"></script>
+<!--<script type="text/javascript" src="/static/categorias/contenidoEstatico/guiasdecomprasope/2017/qa/resources/js/jquery.magnific-popup5.js"></script>-->

@@ -1,0 +1,35 @@
+[{
+  "name": "Terrazas",
+  "link": "http://www.sodimac.com.pe/sodimac-pe/content/a1500008/verano-terrazas/?cid=ctglnd9694",
+  "codigo":"a1500008",
+  "descripcion": "Convierte tu terraza en el escenario perfecto para esta temporada.",
+
+},{
+  "name": "Piscinas y Flotadores",
+  "link": "http://www.sodimac.com.pe/sodimac-pe/content/a1500009/verano-piscinas/?cid=ctglnd9693",
+  "codigo":"a1500009",
+  "descripcion": "¿Demasiado calor? Arma tu piscina y disfruta con los tuyos lo mejor del verano.",
+
+},{
+  "name": "Parrillas",
+  "link": "http://www.sodimac.com.pe/sodimac-pe/content/a1500010/verano-parrillas/?cid=ctglnd9695",
+  "codigo":"a1500010",
+  "descripcion": "Sorprende a tus amigos con una parrilla increíble.",
+},{
+  "name": "Playa y Camping",
+  "link": "http://www.sodimac.com.pe/sodimac-pe/content/a1500013/verano-playa-camping/?cid=ctglnd9697",
+  "codigo":"a1500013",
+  "descripcion": "¡Elige tu destino! Sal de la rutina y conéctate con la naturaleza acampando.",
+},{
+  "name":"Deportes de Verano",
+  "link": "http://www.sodimac.com.pe/sodimac-pe/content/a1500012/verano-deportes/?cid=ctglnd9699",
+  "codigo":"a1500012",
+  "descripcion": "¡Vive un verano extremo! Encuentra todo lo que necesitas para disfrutar al máximo esta temporada.",
+
+  },{
+    "name":"Juegos al Aire Libre",
+    "link": "http://www.sodimac.com.pe/sodimac-pe/content/a1500014/verano-juegos-inflables/?cid=ctglnd9700",
+    "codigo":"a1500014",
+    "descripcion": "http://www.sodimac.com.pe/sodimac-pe/content/a1500014/verano-juegos-inflables/?cid=ctglnd9700",
+
+    }]
