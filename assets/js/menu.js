@@ -1,5 +1,5 @@
 $(document).ready( function() {
-    $.get("/static/categorias/contenidoEstatico/landings/Verano/menu.shtml?v=CywsRSkTzf3UMS0", function(data){
+    $.get("/static/categorias/contenidoEstatico/landings/Verano/menu.shtml", function(data){
         $('#menu').append(data);
 
         $('.link').click(function() {
